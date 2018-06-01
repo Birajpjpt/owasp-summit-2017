@@ -1,15 +1,15 @@
 ---
 layout          : blocks/page-participant
-title           : ...
+title           : Mr
 type            : participant-remote
-job-title       : 
-company         : 
+job-title       : Application Security Engineer
+company         : The Hut Group
 image           : 
-linkedin        : 
+linkedin        : https://www.linkedin.com/in/biraj-prajapati-5a509668/
 twitter         : 
 facebook        : 
 website         :
-email           : 
+email           : biraj.prajapati@thehutgroup.com
 project-leader  :
 chapter-leader  :
 when-day        :
